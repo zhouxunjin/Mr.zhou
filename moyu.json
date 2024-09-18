@@ -1,82 +1,622 @@
 {
-“Spider”: 关于 WEB // 我不是. 触摸鱼.top/by/jar/moyu.php;md5be6121乙5C 的37471乙191114027123912d2 ",
-  “壁纸”: 关于http://我不是。Berühren Fisch.top /壁纸/moyu.php »,
-  "标志": “https://s1。Hub 图片cc/images/2024/06/11/80538 bfb 3835 FFE BF 7 C5 FD 0716280801JPEG »,
-  "警告文本": "摸鱼儿：资源来自网络,无盈利纯技术分享！弹幕资源由好的提供技术支持,已获授权。[所有内容仅供学习使用,请勿用于违法及商业用途,请勿付费购买]",
+  “蜘蛛”: " https://fs-im-kefu . 7 moor-fs1 . com/ly/4d 2c 3f 00-7d4c-11e 5-af15-41bf 63 AE 4ea 0/1726648969443/fan . txt；md506e 35d 78d 789 a 597 c 21 c 799 c 82 b 487 ee ",
+  “壁纸”: " https://深色壁纸。xxoo。cf/”,
   "网站": [
     {
       "钥匙": "豆豆",
-      "名称": "🌕️豆瓣┃首页┃推荐",
+      "名称": "金哥影视欢迎您！",
       "类型": 3,
-      “蜜蜂”: “ csp _豆类“,
+      " api ": " csp _豆豆",
       "可搜索": 0,
       "快速搜索": 0,
       "可过滤": 0
     },
     {
-      "钥匙": "更新",
-      "名称": "🎬️摸鱼┃电影┃预告",
+      "钥匙": "玩偶",
+      "名称": "👽玩偶哥哥┃4K弹幕",
       "类型": 3,
-      “蜜蜂”: “YGP CSP”,
+      " api ": " csp_WoGG ",
+      "可搜索": 1,
+      "快速搜索": 1,
+      “多变”: 0,
+      "分机": {
+        “云驱动”: " tvfan/Cloud-drive.txt ",
+        "来自": “4k自动”,
+        "网站Url ": “https://www.wogg.net/",
+        《母丹》: "弹"
+      }
+    },
+    {
+      "钥匙": 《YGP》,
+      "名称": "🚀叨观荐影┃新片",
+      "类型": 3,
+      " api ": “YGP CSP”,
       "可搜索": 0,
       "快速搜索": 0,
       “多变”: 0
     },
     {
-      "钥匙": "弹幕配置",
-      "名称": "🚀弹幕┃高级┃设置",
+      "钥匙": “alllive”,
+      "名称": "📽️一直播┃LIVE”,
       "类型": 3,
-      “蜜蜂”: “csp_config”,
-      “罐子”: 关于http://我不是。Berühren Fisch.top/by/jar/danmu.php,
+      " api ": " csp_Alllive ",
+      "播放器类型": 2,
       "可搜索": 0,
+      "快速搜索": 0,
+      “多变”: 0
+    },
+    {
+      "钥匙": "米搜",
+      "名称": "🦋米盘┃搜搜",
+      "类型": 3,
+      " api ": " csp_MIPanSo ",
+      "可搜索": 1,
+      "快速搜索": 1,
       “多变”: 0,
-      "索引": 0,
-      “风格”: {
-        "类型": "矩形",
-        "比率": 1.43
+      "分机": {
+        “云驱动”: " tvfan/Cloud-drive.txt ",
+        "来自": “4k自动”
       }
     },
     {
-      "钥匙": "摸鱼瓜子",
-      "名称": ”❤️马铃薯↓2K纯净“,
+      "钥匙": "抠搜",
+      "名称": "🍄抠抠┃搜搜",
       "类型": 3,
-      “蜜蜂”: 关于http://我不是。Berühren Fisch.top/json/js/drpy.min.js,
-      "可过滤": 1,
-      "订单编号": 0,
-      “多变”: 0,
-      "分机": “https://gitee。com/xiyan kong 123/536992286/raw/moyuer/guazi。JS »
-    },
-    {
-      "钥匙": "醉挽清风",
-      "名称": ”❤️醉 风↓4K纯净“,
-      "类型": 3,
-      “蜜蜂”: 关于http://我不是。Berühren Fisch.top/json/js/drpy.min.js,
+      " api ": " csp_KkSs ",
       "可搜索": 1,
       "快速搜索": 1,
-      "可过滤": 1,
-      "订单编号": 0,
-      "分机": “https://gitee。com/xiyan kong 123/536992286/raw/moyuer/Qingfeng。JS »
+      “多变”: 0,
+      "分机": {
+        “云驱动”: " tvfan/Cloud-drive.txt ",
+        "来自": “4k自动”
+      }
     },
     {
-      "钥匙": "荐片纯净",
-      "名称": "👍️荐片┃蓝光┃纯净",
-      “蜜蜂”: https://git 实验室。com/fantaiying/ext/-/raw/main/drpy 2。min。JS »,
+      "钥匙": “解放”,
+      "名称": "🌟立播┃秒播",
       "类型": 3,
+      " api ": " csp_Libvio ",
       "可搜索": 1,
       "快速搜索": 1,
       “多变”: 1,
-      "播放器类型": "1",
-      "分机": https://git 实验室。com/fantaiying/ext/-/raw/main/jp。JS »
+      "分机": {
+        “云驱动”: " tvfan/Cloud-drive.txt ",
+        "来自": “4k自动”
+      }
     },
     {
-      "钥匙": "荐片弹幕版",
-      "名称": "👍️荐片┃蓝光┃弹幕",
+      "钥匙": "文采",
+      "名称": "💮文采┃秒播",
       "类型": 3,
-      “蜜蜂”: “csp_Jianpian”,
-      “罐子”: 关于http://我不是。Berühren Fisch.top/by/jar/danmu.php,
+      " api ": " csp_Jpys ",
+      "播放器类型": 2,
       "可搜索": 1,
-      "快速搜索": 1,
-      "可过滤": 1,
-      "分机": {
-        《母丹》: 真实的
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "糯米",
+      "name": "🍓糯米┃秒播",
+      "type": 3,
+      "api": "csp_Nmyswv",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "苹果",
+      "name": "🍎苹果┃不卡",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "厂长",
+      "name": "📔厂长┃不卡",
+      "type": 3,
+      "api": "csp_NewCz",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czys.pro/"
+    },
+    {
+      "key": "原创",
+      "name": "☀原创┃不卡",
+      "type": 3,
+      "api": "csp_YCyz",
+      "timeout": 15,
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "热播",
+      "name": "📺热播┃多线",
+      "type": 3,
+      "api": "csp_AppTT",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
+    },
+    {
+      "key": "萌米",
+      "name": "👀萌米┃多线",
+      "type": 3,
+      "api": "csp_AppTT",
+      "timeout": 15,
+      "playerType": 1,
+      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+    },
+    {
+      "key": "南瓜",
+      "name": "🎃南瓜┃多线",
+      "type": 3,
+      "api": "csp_NanGua",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "可可",
+      "name": "👻可可┃多线",
+      "type": 3,
+      "api": "csp_Kekys",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "zxzj",
+      "name": "🍊在线┃外剧",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzjhd.com/"
+    },
+    {
+      "key": "低端",
+      "name": "⏮️低端┃外剧",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "贱贱",
+      "name": "🐭贱贱┃P2P",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": "1",
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
+    },
+    {
+      "key": "比特",
+      "name": "🍄比特┃秒播",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Auete",
+      "name": "🏝奥特┃无广",
+      "type": 3,
+      "api": "csp_Auete",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://auete.pro/"
+    },
+    {
+      "key": "新6V",
+      "name": "🧲新6V┃磁力",
+      "type": 3,
+      "api": "csp_SixV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://www.xb6v.com/"
+    },
+    {
+      "key": "短剧",
+      "name": "🌈上头┃短剧",
+      "type": 3,
+      "api": "csp_Djtt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Dm84",
+      "name": "🚌巴士┃动漫",
+      "type": 3,
+      "api": "csp_Dm84",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Ysj",
+      "name": "🎀异界┃动漫",
+      "type": 3,
+      "api": "csp_Ysj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Anime1",
+      "name": "🐾日本┃动漫",
+      "type": 3,
+      "api": "csp_Anime1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "88js",
+      "name": "⚽ 88┃看球",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/88看球.js",
+      "style": {
+        "type": "list"
       },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "310js",
+      "name": "⚽ 310┃看球",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/310直播.js",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "Jrsjs",
+      "name": "⚽ Jrs┃球迷",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "企鹅xp",
+      "name": "🐧鹅鹅┃体育",
+      "type": 3,
+      "api": "csp_XPath",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/企鹅直播.json"
+    },
+    {
+      "key": "酷奇",
+      "name": "🎤酷奇┃MV",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/酷奇MV.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "MTV",
+      "name": "🎧明星┃MV",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"
+    },
+    {
+      "key": "虎牙直播js",
+      "name": "🐯虎牙┃直播",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/huya2.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "playerType": "2",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "斗鱼js",
+      "name": "🐟斗鱼┃直播",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/斗鱼直播.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "playerType": "2",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "有声小说js",
+      "name": "🎧有声┃小说",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/有声小说吧.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "Aid",
+      "name": "🚑急救┃教学",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      }
+    },
+    {
+      "key": "Sso",
+      "name": "🐌盘他┃三盘",
+      "type": 3,
+      "api": "csp_PanSso",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "夸搜",
+      "name": "🐟夸搜┃狸夸",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "pan": "quark",
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "YiSo",
+      "name": "😹易搜┃阿狸",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "PanSearch",
+      "name": "🙀盘Se┃阿狸",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "push_agent",
+      "name": "🛴手机┃推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "Bili",
+      "name": "🅱哔哔┃合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/bilibili.json"
+    },
+    {
+      "key": "Biliych",
+      "name": "🅱明星┃演唱会",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json"
+    },
+    {
+      "key": "dr_兔小贝",
+      "name": "📚儿童┃启蒙",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "少儿教育",
+      "name": "📚少儿┃教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "比率": 1.597
+      },
+      "可搜索": 0,
+      "快速搜索": 0,
+      “多变”: 0,
+      "分机": " https://git lab . com/fantaiying/ext/-/raw/main/少儿教育。json "
+    },
+    {
+      "钥匙": "小学课堂",
+      "名称": "📚小学┃课堂",
+      "类型": 3,
+      " api ": "毕丽csp ",
+      “风格”: {
+        "类型": "矩形",
+        "比率": 1.597
+      },
+      "可搜索": 0,
+      "快速搜索": 0,
+      “多变”: 0,
+      "分机": " https://git lab . com/fantaiying/ext/-/raw/main/小学课堂。json "
+    },
+    {
+      "钥匙": "初中课堂",
+      "名称": "📚初中┃课堂",
+      "类型": 3,
+      " api ": "毕丽csp ",
+      “风格”: {
+        "类型": "矩形",
+        "比率": 1.597
+      },
+      "可搜索": 0,
+      "快速搜索": 0,
+      “多变”: 0,
+      "分机": " https://git lab . com/fantaiying/ext/-/raw/main/初中课堂。json "
+    },
+    {
+      "钥匙": "高中教育",
+      "名称": "📚高中┃课堂",
+      "类型": 3,
+      " api ": "毕丽csp ",
+      “风格”: {
+        "类型": "矩形",
+        "比率": 1.597
+      },
+      "可搜索": 0,
+      "快速搜索": 0,
+      “多变”: 0,
+      "分机": " https://git lab . com/fantaiying/ext/-/raw/main/高中课堂。json "
+    },
+    {
+      "钥匙": “范”,
+      "名称": "导航www。饭太硬。com ",
+      "类型": 3,
+      " api ": " csp_XPath ",
+      "可搜索": 1,
+      "快速搜索": 0,
+      “多变”: 0
+    },
+    {
+      "钥匙": "抄送",
+      "名称": "请勿相信视频中广告",
+      "类型": 3,
+      " api ": " csp_XPath ",
+      "可搜索": 1,
+      "快速搜索": 0,
+      “多变”: 0
+    }
+  ],
+  "标志": " https://fs-im-kefu . 7 moor-fs1 . com/ly/4d 2c 3f 00-7d4c-11e 5-af15-41bf 63 AE 4ea 0/1716545739254/fc 1 b 89 e 152 CD 4 aa 28d 295107 CB 6 c 56 c 9 . gif ",
+  “生命”: [
+    {
+      "名称": “直播”,
+      "类型": 0,
+      "网址": " https://mirror . GH proxy . com/https://raw . githubusercontent . com/wwb 521/live/main/TV . m3u ",
+      "播放器类型": 1,
+      "电子节目指南": "http://epg.51zmt.top:8000/api/diyp/？ch={name}&date={date} ",
+      "标志": "https://live.fanmingming.com/tv/{name}。巴布亚新几内亚"
+    },
+    {
+      "名称": " IPV6 ",
+      "类型": 0,
+      "网址": " https://live . fan mingming . com/TV/m3u/IPv6 . m3u ",
+      "播放器类型": 1
+    },
+    {
+      "名称": " IPV4 ",
+      "类型": 0,
+      "网址": " https://mirror . GH proxy . com/raw . githubusercontent . com/ssili 126/TV/main/ITV list . txt ",
+      "播放器类型": 1
+    }
+  ]
+    }
