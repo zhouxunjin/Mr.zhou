@@ -1,96 +1,96 @@
 {
-  “蜘蛛”: " https://fs-im-kefu . 7 moor-fs1 . com/ly/4d 2c 3f 00-7d4c-11e 5-af15-41bf 63 AE 4ea 0/1726648969443/fan . txt；md506e 35d 78d 789 a 597 c 21 c 799 c 82 b 487 ee ",
-  “壁纸”: " https://深色壁纸。xxoo。cf/”,
-  "网站": [
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726648969443/fan.txt;md5;06e35d78d789a597c21c799c82b487ee",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "sites": [
     {
-      "钥匙": "豆豆",
-      "名称": "金哥影视欢迎您！",
-      "类型": 3,
-      " api ": " csp _豆豆",
-      "可搜索": 0,
-      "快速搜索": 0,
-      "可过滤": 0
+      "key": "豆豆",
+      "name": "中秋团圆夜  明月照福缘",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
     },
     {
-      "钥匙": "玩偶",
-      "名称": "👽玩偶哥哥┃4K弹幕",
-      "类型": 3,
-      " api ": " csp_WoGG ",
-      "可搜索": 1,
-      "快速搜索": 1,
-      “多变”: 0,
-      "分机": {
-        “云驱动”: " tvfan/Cloud-drive.txt ",
-        "来自": “4k自动”,
-        "网站Url ": “https://www.wogg.net/",
-        《母丹》: "弹"
+      "key": "玩偶",
+      "name": "👽玩偶哥哥┃4K弹幕",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto",
+        "siteUrl": "https://www.wogg.net/",
+        "danMu": "弹"
       }
     },
     {
-      "钥匙": 《YGP》,
-      "名称": "🚀叨观荐影┃新片",
-      "类型": 3,
-      " api ": “YGP CSP”,
-      "可搜索": 0,
-      "快速搜索": 0,
-      “多变”: 0
+      "key": "YGP",
+      "name": "🚀叨观荐影┃新片",
+      "type": 3,
+      "api": "csp_YGP",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
     },
     {
-      "钥匙": “alllive”,
-      "名称": "📽️一直播┃LIVE”,
-      "类型": 3,
-      " api ": " csp_Alllive ",
-      "播放器类型": 2,
-      "可搜索": 0,
-      "快速搜索": 0,
-      “多变”: 0
+      "key": "alllive",
+      "name": "📽️一直播┃LIVE",
+      "type": 3,
+      "api": "csp_Alllive",
+      "playerType": 2,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
     },
     {
-      "钥匙": "米搜",
-      "名称": "🦋米盘┃搜搜",
-      "类型": 3,
-      " api ": " csp_MIPanSo ",
-      "可搜索": 1,
-      "快速搜索": 1,
-      “多变”: 0,
-      "分机": {
-        “云驱动”: " tvfan/Cloud-drive.txt ",
-        "来自": “4k自动”
+      "key": "米搜",
+      "name": "🦋米盘┃搜搜",
+      "type": 3,
+      "api": "csp_MIPanSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
       }
     },
     {
-      "钥匙": "抠搜",
-      "名称": "🍄抠抠┃搜搜",
-      "类型": 3,
-      " api ": " csp_KkSs ",
-      "可搜索": 1,
-      "快速搜索": 1,
-      “多变”: 0,
-      "分机": {
-        “云驱动”: " tvfan/Cloud-drive.txt ",
-        "来自": “4k自动”
+      "key": "抠搜",
+      "name": "🍄抠抠┃搜搜",
+      "type": 3,
+      "api": "csp_KkSs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
       }
     },
     {
-      "钥匙": “解放”,
-      "名称": "🌟立播┃秒播",
-      "类型": 3,
-      " api ": " csp_Libvio ",
-      "可搜索": 1,
-      "快速搜索": 1,
-      “多变”: 1,
-      "分机": {
-        “云驱动”: " tvfan/Cloud-drive.txt ",
-        "来自": “4k自动”
+      "key": "Lib",
+      "name": "🌟立播┃秒播",
+      "type": 3,
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
       }
     },
     {
-      "钥匙": "文采",
-      "名称": "💮文采┃秒播",
-      "类型": 3,
-      " api ": " csp_Jpys ",
-      "播放器类型": 2,
-      "可搜索": 1,
+      "key": "文采",
+      "name": "💮文采┃秒播",
+      "type": 3,
+      "api": "csp_Jpys",
+      "playerType": 2,
+      "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
     },
@@ -528,95 +528,95 @@
       "api": "csp_Bili",
       "style": {
         "type": "rect",
-        "比率": 1.597
+        "ratio": 1.597
       },
-      "可搜索": 0,
-      "快速搜索": 0,
-      “多变”: 0,
-      "分机": " https://git lab . com/fantaiying/ext/-/raw/main/少儿教育。json "
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/少儿教育.json"
     },
     {
-      "钥匙": "小学课堂",
-      "名称": "📚小学┃课堂",
-      "类型": 3,
-      " api ": "毕丽csp ",
-      “风格”: {
-        "类型": "矩形",
-        "比率": 1.597
+      "key": "小学课堂",
+      "name": "📚小学┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
       },
-      "可搜索": 0,
-      "快速搜索": 0,
-      “多变”: 0,
-      "分机": " https://git lab . com/fantaiying/ext/-/raw/main/小学课堂。json "
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/小学课堂.json"
     },
     {
-      "钥匙": "初中课堂",
-      "名称": "📚初中┃课堂",
-      "类型": 3,
-      " api ": "毕丽csp ",
-      “风格”: {
-        "类型": "矩形",
-        "比率": 1.597
+      "key": "初中课堂",
+      "name": "📚初中┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
       },
-      "可搜索": 0,
-      "快速搜索": 0,
-      “多变”: 0,
-      "分机": " https://git lab . com/fantaiying/ext/-/raw/main/初中课堂。json "
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/初中课堂.json"
     },
     {
-      "钥匙": "高中教育",
-      "名称": "📚高中┃课堂",
-      "类型": 3,
-      " api ": "毕丽csp ",
-      “风格”: {
-        "类型": "矩形",
-        "比率": 1.597
+      "key": "高中教育",
+      "name": "📚高中┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
       },
-      "可搜索": 0,
-      "快速搜索": 0,
-      “多变”: 0,
-      "分机": " https://git lab . com/fantaiying/ext/-/raw/main/高中课堂。json "
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"
     },
     {
-      "钥匙": “范”,
-      "名称": "导航www。饭太硬。com ",
-      "类型": 3,
-      " api ": " csp_XPath ",
-      "可搜索": 1,
-      "快速搜索": 0,
-      “多变”: 0
+      "key": "fan",
+      "name": "导航 www.饭太硬.com",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0
     },
     {
-      "钥匙": "抄送",
-      "名称": "请勿相信视频中广告",
-      "类型": 3,
-      " api ": " csp_XPath ",
-      "可搜索": 1,
-      "快速搜索": 0,
-      “多变”: 0
+      "key": "cc",
+      "name": "请勿相信视频中广告",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0
     }
   ],
-  "标志": " https://fs-im-kefu . 7 moor-fs1 . com/ly/4d 2c 3f 00-7d4c-11e 5-af15-41bf 63 AE 4ea 0/1716545739254/fc 1 b 89 e 152 CD 4 aa 28d 295107 CB 6 c 56 c 9 . gif ",
-  “生命”: [
+  "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
+  "lives": [
     {
-      "名称": “直播”,
-      "类型": 0,
-      "网址": " https://mirror . GH proxy . com/https://raw . githubusercontent . com/wwb 521/live/main/TV . m3u ",
-      "播放器类型": 1,
-      "电子节目指南": "http://epg.51zmt.top:8000/api/diyp/？ch={name}&date={date} ",
-      "标志": "https://live.fanmingming.com/tv/{name}。巴布亚新几内亚"
+      "name": "LIVE",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
-      "名称": " IPV6 ",
-      "类型": 0,
-      "网址": " https://live . fan mingming . com/TV/m3u/IPv6 . m3u ",
-      "播放器类型": 1
+      "name": "IPV6",
+      "type": 0,
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "playerType": 1
     },
     {
-      "名称": " IPV4 ",
-      "类型": 0,
-      "网址": " https://mirror . GH proxy . com/raw . githubusercontent . com/ssili 126/TV/main/ITV list . txt ",
-      "播放器类型": 1
+      "name": "IPV4",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+      "playerType": 1
     }
   ]
     }
